@@ -1,0 +1,16 @@
+We want to track user data in an online system , clean and analyse it, store in the warehouse for reproting
+
+API - to pull data
+Clean - the data if need be
+Analyze - the data
+Save - into our data warehouse
+
+scheduler
+Logging
+
+cases
+
+- if account has a website  - 5
+- len of teh company name
+
+
